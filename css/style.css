@@ -302,13 +302,13 @@ body {
 #subtitle {
   text-decoration: none;
   color: #a9a9a9;
-  font-weight: 300;
+  font-weight: 400;
   padding-left: 10px;
 }
 #logo {
-  font-size: 20px;
-  line-height: 20px;
-  letter-spacing: 2px;
+  font-size: 28px;
+  line-height: 28px;
+  letter-spacing: 1.5px;
 }
 #logo:hover {
   color: #258fb8;
@@ -536,7 +536,7 @@ a.article-title:hover {
   font-family: "Ubuntu", "Microsoft YaHei", Arial, sans-serif;
 }
 .article-entry blockquote footer cite:before {
-  content: "—";
+  content: "Ã¢â‚¬â€";
   padding: 0 0.5em;
 }
 .article-entry .pullquote {
